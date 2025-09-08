@@ -1,0 +1,19 @@
+---
+title: "Session One"
+author: "Maureen Williams"
+format: html
+editor: visual
+---
+
+## Welcome!
+
+## Downloading R and R Studio
+
+Before the first session, it would be INCREDIBLY helpful for you to have R and R Studio installed on the machine you're working with. You can follow the instructions below. If you're working on a McDaniel PC or Mac, you'll need to get in touch with IT in order to get these installed. PLEASE do this ahead of time.
+
+1.  Navigate to [bit.ly/mcdbs_rstudio](bit.ly/mcdbs_rstudio).
+2.   First, download R onto your computer. The latest release is called “2023-06-16, Beagle Scouts” which is the  4.3.1 version of R. You should be able to download it by following the buttons. If you’re stuck, Google around or ask me!
+3.  Once you have R downloaded, download R studio. You should be roughly downloading version 2023.06.2+561.
+4.  Once you have those two downloaded, open R studio and make sure you know how to find it on your computer.
+
+## Get to Know R Studio
